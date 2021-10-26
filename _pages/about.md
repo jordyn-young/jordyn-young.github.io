@@ -10,6 +10,10 @@ redirect_from:
 My name is Jordyn Young and I am a PhD student in [Information Science](https://drexel.edu/cci/academics/information-science-department/) at Drexel University. I am advised by [Dr. Andrea Forte](http://andreaforte.net/) in the Social Computing Research Group. Prior to graduate school, I completed my Bachelor’s degree in Psychology at the [University of Pennsylvania](https://psychology.sas.upenn.edu/) where I worked with [Dr. Melissa Hunt](https://www.melissahunt.net/). My research examines the impact of our increasingly digital lives. 
 
 ## News
+**October 2021:** Joined the MultiFi Team at Berkadia as a UX Research Associate.  
+<img src="/images/Berkadia-logo.jpeg" alt="Berkadia Logo" width="200"/>
+<img src="/images/MultiFi-logo.jpeg" alt="MultiFi Logo" width="200"/>
+
 **September 2021:** Joined Drexel University as a PhD student in Dr. Forte's Social Computing Research Group.  
 <img src="/images/Drexel_horizontal_blue.png" alt="Drexel University Logo" width="200"/>
 
