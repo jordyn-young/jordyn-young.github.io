@@ -13,13 +13,13 @@ My name is Jordyn Young and I am a PhD student in [Information Science](https:/
 **September 2021:** Joined Drexel University as a PhD student in Dr. Forte's Social Computing Research Group.  
 <img src="/images/Drexel_horizontal_blue.png" alt="Drexel University Logo" width="200"/>
 
-**August 2021:** Excited to announce that I have been selected to attend the 2021 Virtual Grace Hopper Celebration of Women in Computing.  
+**August 2021:** Selected to attend the 2021 Virtual Grace Hopper Celebration of Women in Computing.  
 <img src="/images/GraceHopper-logo.png" alt="Grace Hopper Celebration Logo" width = "200"/>
 
-**July 2021:** Excited to announce that I have been awarded the Grad Network Community Impact Fellowship through the Jewish Graduate Student Network.  
+**July 2021:** Awarded the Grad Network Community Impact Fellowship through the Jewish Graduate Student Network.  
 <img src="/images/JewishGradStudentNetwork-logo.png" alt="Jewish Grad Student Network Logo" width = "200"/>
 
-**April 2021:** Excited to announce that I have been awarded the [Gold Fellowship](https://drexel.edu/graduatecollege/research-funding/fellowships/graduatecollege-fellowships/2021-fellows/) from Drexel's Graduate College!
+**April 2021:** Awarded the [Gold Fellowship](https://drexel.edu/graduatecollege/research-funding/fellowships/graduatecollege-fellowships/2021-fellows/) from Drexel's Graduate College!
 
-**May 2019:** Graduated magna cum laude from the University of Pennsylvania with a bachelor's degree in Psychology.  
+**May 2019:** Graduated *Magna Cum Laude* from the University of Pennsylvania with a bachelor's degree in Psychology.  
 <img src="/images/UniversityofPennsylvania_FullLogo.png" alt="University of Pennsylvania Logo" width = "200"/>
