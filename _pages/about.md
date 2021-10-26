@@ -21,3 +21,5 @@ My name is Jordyn Young and I am a PhD student in [Information Science](https:/
 
 **April 2021:** Excited to announce that I have been awarded the [Gold Fellowship](https://drexel.edu/graduatecollege/research-funding/fellowships/graduatecollege-fellowships/2021-fellows/) from Drexel's Graduate College!
 
+**May 2019:** Graduated magna cum laude from the University of Pennsylvania with a bachelor's degree in Psychology.  
+<img src="/images/UniversityofPennsylvania_FullLogo.png" alt="University of Pennsylvania Logo" width = "200"/>
