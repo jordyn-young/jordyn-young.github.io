@@ -11,8 +11,8 @@ My name is Jordyn Young and I am a PhD student in [Information Science](https:/
 
 ## News
 **October 2021:** Joined the MultiFi Team at Berkadia as a UX Research Associate.  
-<img src="/images/Berkadia-logo.jpeg" alt="Berkadia Logo" width="200"/>
-<img src="/images/MultiFi-logo.jpeg" alt="MultiFi Logo" width="200"/>
+<img src="/images/MultiFi-logo.png" alt="MultiFi Logo" width="200"/>
+<img src="/images/Berkadia-logo.png" alt="Berkadia Logo" width="200"/>
 
 **September 2021:** Joined Drexel University as a PhD student in Dr. Forte's Social Computing Research Group.  
 <img src="/images/Drexel_horizontal_blue.png" alt="Drexel University Logo" width="200"/>
