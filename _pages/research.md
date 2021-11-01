@@ -4,7 +4,6 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-# Research
 You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=CFDaWyUAAAAJ&hl=en).
 
 ## Social Media Use and Well-Being
