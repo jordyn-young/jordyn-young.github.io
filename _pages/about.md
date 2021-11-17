@@ -14,7 +14,7 @@ My name is Jordyn Young and I am a PhD student in [Information Science](https:/
 <img src="/images/MultiFi-logo.png" alt="MultiFi Logo" width="200"/>
 <img src="/images/Berkadia-logo.png" alt="Berkadia Logo" width="200"/>
 
-**September 2021:** Joined Drexel University as a PhD student in Dr. Forte's Social Computing Research Group.  
+**September 2021:** Joined Drexel University as a PhD student in Dr. Andrea Forte's [Social Computing Research Group](https://www.drexelsocialcomputing.net/).  
 <img src="/images/Drexel_horizontal_blue.png" alt="Drexel University Logo" width="200"/>
 
 **August 2021:** Selected to attend the 2021 Virtual Grace Hopper Celebration of Women in Computing.  
