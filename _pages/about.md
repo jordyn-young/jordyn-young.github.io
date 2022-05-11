@@ -23,7 +23,7 @@ My name is Jordyn Young and I am a PhD student in [Information Science](https:/
 **October 2021:** Attending the 24TH ACM Conference on Computer-Supported Cooperative Work and Social Computing [(CSCW 2021)](https://cscw.acm.org/2021/)  
 <img src="/images/CSCW-2021-logo.png" alt="CSCW 2021 Logo" width="200"/>
 
-**October 2021:** Joined the [MultiFi](https://www.getmultifi.com/?hsLang=en) Team at [Berkadia](https://www.berkadia.com/) as a UX Research Associate.  
+**October 2021:** Joined the [MultiFi](https://www.getmultifi.com/?hsLang=en) Team at [Berkadia](https://www.berkadia.com/) as a UX Research Intern.  
 <img src="/images/MultiFi-logo.png" alt="MultiFi Logo" width="200"/>
 <img src="/images/Berkadia-logo.png" alt="Berkadia Logo" width="200"/>
 
