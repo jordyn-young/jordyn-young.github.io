@@ -10,6 +10,9 @@ redirect_from:
 My name is Jordyn Young and I am a PhD student in [Information Science](https://drexel.edu/cci/academics/information-science-department/) at Drexel University. I am advised by [Dr. Andrea Forte](http://andreaforte.net/) in the Social Computing Research Group. Prior to graduate school, I completed my Bachelor’s degree in Psychology at the [University of Pennsylvania](https://psychology.sas.upenn.edu/) where I worked with [Dr. Melissa Hunt](https://www.melissahunt.net/). My research examines the impact of our increasingly digital lives. 
 
 ## News
+**June 2022:** Attending the 2022 conference for [The Society for Digital Mental Health](https://www.societydmh.org/).  
+<img src="/images/SDMH-logo.jpeg" alt="The Society for Digital Mental Health Logo" width="200"/>
+
 **May 2022:** Attending the [2022 ACM CHI Conference](https://chi2022.acm.org/) on Human Factors in Computing Systems.  
 <img src="/images/CHI22-logo.png" alt="CHI 2022 Conference Logo" width="200"/>
 
