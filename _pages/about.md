@@ -10,6 +10,9 @@ redirect_from:
 My name is Jordyn Young and I am a PhD student in [Information Science](https://drexel.edu/cci/academics/information-science-department/) at Drexel University. I am advised by [Dr. Andrea Forte](http://andreaforte.net/) in the Social Computing Research Group. Prior to graduate school, I completed my Bachelor’s degree in Psychology at the [University of Pennsylvania](https://psychology.sas.upenn.edu/) where I worked with [Dr. Melissa Hunt](https://www.melissahunt.net/). My research examines the impact of our increasingly digital lives. 
 
 ## News
+**August 2022:** Selected to attend the 2022 Grace Hopper Celebration of Women in Computing.  
+<img src="/images/GraceHopper-2022-logo.png" alt="Grace Hopper Celebration Logo" width = "200"/>
+
 **June 2022:** Attending the 2022 conference for [The Society for Digital Mental Health](https://www.societydmh.org/).  
 <img src="/images/SDMH-logo.jpeg" alt="The Society for Digital Mental Health Logo" width="200"/>
 
@@ -33,7 +36,7 @@ My name is Jordyn Young and I am a PhD student in [Information Science](https:/
 **September 2021:** Joined Drexel University as a PhD student in Dr. Andrea Forte's [Social Computing Research Group](https://www.drexelsocialcomputing.net/).  
 <img src="/images/Drexel_horizontal_blue.png" alt="Drexel University Logo" width="200"/>
 
-**August 2021:** Selected to attend the 2021 Virtual Grace Hopper Celebration of Women in Computing.  
+**August 2021:** Selected to attend the 2021 Grace Hopper Celebration of Women in Computing.  
 <img src="/images/GraceHopper-logo.png" alt="Grace Hopper Celebration Logo" width = "200"/>
 
 **July 2021:** Awarded the Grad Network Community Impact Fellowship through the Jewish Graduate Student Network.  
