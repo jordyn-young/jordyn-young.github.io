@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-<embed src="/files/websiteCV_2023.2.23.pdf" type="application/pdf">
+<embed src="/files/websiteCV_2023.3.16.pdf" type="application/pdf">
