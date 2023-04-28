@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is Jordyn Young and I am a PhD student in [Information Science](https://drexel.edu/cci/academics/information-science-department/) at Drexel University. I am advised by [Dr. Andrea Forte](http://andreaforte.net/) in the Social Computing Research Group. Prior to graduate school, I completed my Bachelor’s degree in Psychology at the [University of Pennsylvania](https://psychology.sas.upenn.edu/) where I worked with [Dr. Melissa Hunt](https://www.melissahunt.net/). My research examines the impact of our increasingly digital lives. 
+My name is Jordyn Young and I am a PhD student in [Information Science](https://drexel.edu/cci/academics/information-science-department/) at Drexel University. I am advised by [Dr. Andrea Forte](http://andreaforte.net/) in the Social Computing Research Group. Prior to graduate school, I completed my Bachelor’s degree in Psychology at the [University of Pennsylvania](https://psychology.sas.upenn.edu/) where I worked with [Dr. Melissa Hunt](https://www.melissahunt.net/). My research examines the impact of our increasingly digital lives. I'm particularly interested in human-computer interaction, social computing, and computational social science.
+
+Want to chat or explore opportunities to collaborate? Feel free to contact me!
 
 ## News
 **April 2023:** Invited to join [Upsilon Pi Epsilon](https://upe.acm.org/), the international honor society for computing and information disciplines.  
