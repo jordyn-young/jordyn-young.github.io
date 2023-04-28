@@ -1,10 +1,9 @@
 ---
-permalink: /contact-me/
+layout: archive
 title: "Contact Me"
-excerpt: "Contact Me"
+permalink: /contact-me/
 author_profile: true
-redirect_from: 
+redirect_from:
   - /contact-me/
-  - /contact-me.html
 ---
 Want to connect? The best way to reach me is by sending an email to jby28@drexel.edu!
