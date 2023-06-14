@@ -12,7 +12,8 @@ My name is Jordyn Young and I am a PhD student in [Information Science](https:/
 Want to chat or explore opportunities to collaborate? Feel free to contact me!
 
 ## News
-**June 2023:** Attending the 2023 [Human Computer Interaction Consortium](https://hcic.org/).
+**June 2023:** Attending the 2023 [Human Computer Interaction Consortium](https://hcic.org/).  
+<img src="/images/HCIC-2023-logo.jpg" alt="HCIC 2023 Logo" width="200"/>
 
 **April 2023:** Invited to join [Upsilon Pi Epsilon](https://upe.acm.org/), the international honor society for computing and information disciplines.  
 <img src="/images/UPE-logo.png" alt="Upsilon Pi Epsilon Logo" width="200"/>
