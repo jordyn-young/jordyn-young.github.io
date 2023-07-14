@@ -8,7 +8,7 @@ My publications are also available on my [CV](https://jordyn-young.github.io/cv/
 
 **Refereed Journal Articles and Conference Papers**
 
-Sannon, S., **Young, J.**, Shusas, E. and Forte, A. (2023). Disability Activism on Social Media: Sociotechnical hallenges in the Pursuit of Visibility. In the Proceedings of the ACM Conference on Human Factors in Computing ystems (CHI ‘23), Hamburg, Germany.
+Sannon, S., **Young, J.**, Shusas, E. and Forte, A. (2023). Disability Activism on Social Media: Sociotechnical challenges in the Pursuit of Visibility. In the Proceedings of the ACM Conference on Human Factors in Computing ystems (CHI ‘23), Hamburg, Germany.
 
 Psihogios, A.M., King-Dowling, S., O'Hagan, B., Darabos, K., Maurer, L., **Young, J.**, Fleisher, L., Barakat, L.P., Szalda, D., Hill-Kayser, C.E., Schwartz, L.A. (2021). Contextual Predictors of Engagement in a Tailored mHealth Intervention for Adolescent and Young Adult Cancer Survivors. Annals of Behavioral Medicine.
 
@@ -17,6 +17,8 @@ Stewart, R.E., Wolk, C.B., Neimark, G., Byas, R., **Young, J.**, Tjoa, C., Kampm
 Hunt, M.G., Marx, R., Lipson, C., & **Young, J.** (2018). No More FOMO: Limiting Social Media Decreases Loneliness and Depression. Journal of Social and Clinical Psychology.
 
 **Workshop Papers**
+
+Monselise, M. & **Young, J.** (2023). User Ownership of Content on Reddit: Examining the Impact of the Change in Developer Terms for Various Stakeholders. Multi-Stakeholder Privacy and Safety on Content Creation Platforms: A Workshop at DIS 2023. ACM DIS Conference on Designing Interactive Systems, 2023.
 
 **Young, J.** (2023). Exploring Proactive Interventions to Prevent Toxic Content. Combating Toxicity, Harassment, and Abuse in Online Social Spaces: A Workshop at CHI 2023. ACM CHI Conference on Human Factors in Computing Systems, 2023.
 
