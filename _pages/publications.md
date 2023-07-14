@@ -8,7 +8,7 @@ My publications are also available on my [CV](https://jordyn-young.github.io/cv/
 
 **Refereed Journal Articles and Conference Papers**
 
-Sannon, S., **Young, J.**, Shusas, E. and Forte, A. (2023). Disability Activism on Social Media: Sociotechnical challenges in the Pursuit of Visibility. In the Proceedings of the ACM Conference on Human Factors in Computing ystems (CHI ‘23), Hamburg, Germany.
+Sannon, S., **Young, J.**, Shusas, E. and Forte, A. (2023). Disability Activism on Social Media: Sociotechnical Challenges in the Pursuit of Visibility. In the Proceedings of the ACM Conference on Human Factors in Computing Systems (CHI ‘23), Hamburg, Germany.
 
 Psihogios, A.M., King-Dowling, S., O'Hagan, B., Darabos, K., Maurer, L., **Young, J.**, Fleisher, L., Barakat, L.P., Szalda, D., Hill-Kayser, C.E., Schwartz, L.A. (2021). Contextual Predictors of Engagement in a Tailored mHealth Intervention for Adolescent and Young Adult Cancer Survivors. Annals of Behavioral Medicine.
 
