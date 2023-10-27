@@ -12,7 +12,8 @@ My name is Jordyn Young and I am a PhD student in [Information Science](https:/
 Want to chat or explore opportunities to collaborate? Feel free to contact me!
 
 ## News
-**October 2023:** Attending the [2023 ACM CSCW Conference](https://cscw.acm.org/2023/).
+**October 2023:** Attending the [2023 ACM CSCW Conference](https://cscw.acm.org/2023/).  
+<img src="/images/CSCW-2023-logo.png" alt="CSCW 2023 Logo" width="200"/>
 
 **July 2023:** Accepted workshop paper for [Multi-Stakeholder Privacy and Safety on Content Creation Platforms](https://sites.google.com/view/dis2023mpsworkshop/call-for-participation) at [ACM DIS 2023](https://dis.acm.org/2023/)!  
 <img src="/images/DIS-2023-logo.jpg" alt="HCIC 2023 Logo" width="200"/>
